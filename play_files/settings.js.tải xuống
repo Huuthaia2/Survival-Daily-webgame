@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","ui","bullet","zombie"],collisionMatrix:[[true,true,true,true],[true,false],[true,false,false,true],[true,false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/Start.fire",orientation:"portrait",jsList:[]};
