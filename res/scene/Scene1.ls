@@ -5783,7 +5783,7 @@
 						0.546977,
 						0.5469772
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Plants_02.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Plants_02.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -5817,7 +5817,7 @@
 						0.546977,
 						0.546977
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Damaged_02.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Damaged_02.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -5851,7 +5851,7 @@
 						0.6467751,
 						0.6467751
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Buildings/SA_Bld_Building_Damaged_03-SA_Bld_Building_Plants_03.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Buildings/SA_Bld_Building_Damaged_03-SA_Bld_Building_Plants_03.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -5885,7 +5885,7 @@
 						0.6467751,
 						0.6467751
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Buildings/SA_Bld_Building_Damaged_03-SA_Bld_Building_Damaged_03.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Buildings/SA_Bld_Building_Damaged_03-SA_Bld_Building_Damaged_03.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -5919,7 +5919,7 @@
 						0.6877151,
 						0.6877151
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_BuildingRubble_01-SA_Prop_BuildingRubble_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_BuildingRubble_01-SA_Prop_BuildingRubble_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -5953,7 +5953,7 @@
 						0.4113274,
 						0.4113274
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Plants_02.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Plants_02.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -5987,7 +5987,7 @@
 						0.4113274,
 						0.4113274
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Damaged_02.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Damaged_02.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6021,7 +6021,7 @@
 						0.4113274,
 						0.4113274
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Plants_02.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Plants_02.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6055,7 +6055,7 @@
 						0.4113274,
 						0.4113274
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Damaged_02.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Buildings/SA_Bld_Building_Damaged_02-SA_Bld_Building_Damaged_02.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6089,7 +6089,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_Fence_Wire_Full_01-SA_Prop_Fence_Wire_Full_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_Fence_Wire_Full_01-SA_Prop_Fence_Wire_Full_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6123,7 +6123,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6157,7 +6157,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_Fence_Wire_01-SA_Prop_Fence_Wire_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_Fence_Wire_01-SA_Prop_Fence_Wire_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6191,7 +6191,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_Fence_Wire_01-SA_Prop_Fence_Wire_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_Fence_Wire_01-SA_Prop_Fence_Wire_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6225,7 +6225,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6259,7 +6259,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6293,7 +6293,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_Fence_Wire_Full_01-SA_Prop_Fence_Wire_Full_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_Fence_Wire_Full_01-SA_Prop_Fence_Wire_Full_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6327,7 +6327,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6361,7 +6361,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6395,7 +6395,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6429,7 +6429,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_SecurityWallGate_01-SA_Prop_SecurityWallGate_Extras.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_SecurityWallGate_01-SA_Prop_SecurityWallGate_Extras.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6463,7 +6463,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_SecurityWallGate_01-SA_Prop_SecurityWallGate_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_SecurityWallGate_01-SA_Prop_SecurityWallGate_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6497,7 +6497,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_Fence_Wire_Full_01-SA_Prop_Fence_Wire_Full_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_Fence_Wire_Full_01-SA_Prop_Fence_Wire_Full_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6531,7 +6531,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6565,7 +6565,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_SecurityWallPiece_01-SA_Prop_SecurityWallPiece_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6599,7 +6599,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_Fence_Wire_Damaged_03-SA_Prop_Fence_Wire_Damaged_03.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_Fence_Wire_Damaged_03-SA_Prop_Fence_Wire_Damaged_03.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6633,7 +6633,7 @@
 						0.3635202,
 						0.3635202
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_BioBarrel_01-SA_Prop_BioBarrel_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_BioBarrel_01-SA_Prop_BioBarrel_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6667,7 +6667,7 @@
 						0.3635202,
 						0.3635202
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_BioBarrel_01-SA_Prop_BioBarrel_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_BioBarrel_01-SA_Prop_BioBarrel_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6701,7 +6701,7 @@
 						0.3635202,
 						0.3635204
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_BioBarrel_02-SA_Prop_BioBarrel_02.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_BioBarrel_02-SA_Prop_BioBarrel_02.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6735,7 +6735,7 @@
 						0.3635202,
 						0.3635204
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_BioBarrel_01-SA_Prop_BioBarrel_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_BioBarrel_01-SA_Prop_BioBarrel_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6803,7 +6803,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_Fence_Wire_Full_01-SA_Prop_Fence_Wire_Full_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_Fence_Wire_Full_01-SA_Prop_Fence_Wire_Full_01.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -6837,7 +6837,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Environment/SA_Env_RoadStraight_Damaged_01-SA_Env_RoadStraight_Damaged_01.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Environment/SA_Env_RoadStraight_Damaged_01-SA_Env_RoadStraight_Damaged_01.lm",
 					"enableRender":true,
 					"materials":[
 						{

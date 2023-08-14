@@ -4980,7 +4980,7 @@
 						1,
 						1
 					],
-					"meshPath":"Assets/SimpleApocalypse/_Models/Vehicles/SA_Veh_Schoolbus-SA_Veh_Schoolbus.lm",
+					"meshPath":"Assets/SimpleApocalypse/Models/Vehicles/SA_Veh_Schoolbus-SA_Veh_Schoolbus.lm",
 					"enableRender":true,
 					"materials":[
 						{
@@ -5013,7 +5013,7 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/SimpleApocalypse/_Models/Vehicles/SA_Veh_Schoolbus-SA_Veh_Schoolbus_Wheel_FL.lm",
+							"meshPath":"Assets/SimpleApocalypse/Models/Vehicles/SA_Veh_Schoolbus-SA_Veh_Schoolbus_Wheel_FL.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -5070,7 +5070,7 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/SimpleApocalypse/_Models/Vehicles/SA_Veh_Schoolbus-SA_Veh_Schoolbus_Wheel_FR.lm",
+							"meshPath":"Assets/SimpleApocalypse/Models/Vehicles/SA_Veh_Schoolbus-SA_Veh_Schoolbus_Wheel_FR.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -5104,7 +5104,7 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/SimpleApocalypse/_Models/Vehicles/SA_Veh_Schoolbus-SA_Veh_Schoolbus_Wheel_RL.lm",
+							"meshPath":"Assets/SimpleApocalypse/Models/Vehicles/SA_Veh_Schoolbus-SA_Veh_Schoolbus_Wheel_RL.lm",
 							"enableRender":true,
 							"materials":[
 								{
@@ -5138,7 +5138,7 @@
 								1,
 								1
 							],
-							"meshPath":"Assets/SimpleApocalypse/_Models/Vehicles/SA_Veh_Schoolbus-SA_Veh_Schoolbus_Wheel_RR.lm",
+							"meshPath":"Assets/SimpleApocalypse/Models/Vehicles/SA_Veh_Schoolbus-SA_Veh_Schoolbus_Wheel_RR.lm",
 							"enableRender":true,
 							"materials":[
 								{

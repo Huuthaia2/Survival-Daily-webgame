@@ -1138,7 +1138,7 @@
 								0.006,
 								0.006
 							],
-							"meshPath":"Assets/SimpleApocalypse/_Models/Props/SA_Prop_Fridge_01-SA_Prop_Fridge_01.lm",
+							"meshPath":"Assets/SimpleApocalypse/Models/Props/SA_Prop_Fridge_01-SA_Prop_Fridge_01.lm",
 							"enableRender":true,
 							"materials":[
 								{
